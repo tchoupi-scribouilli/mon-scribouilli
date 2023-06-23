@@ -1,5 +1,5 @@
 ---
-title: Accueil
+title: Mon scribouilli
 ---
 # L'Échappée Belle
 
