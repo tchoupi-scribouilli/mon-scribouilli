@@ -1,3 +1,7 @@
 :root {
     --couleur-primaire : #0E6270;
 }
+
+a {
+  color: #845e0d;
+}
